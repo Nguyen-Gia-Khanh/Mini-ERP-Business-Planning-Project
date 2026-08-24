@@ -482,17 +482,4 @@ The project required connecting concepts from:
 Building the workbook made it possible to see how a decision made in one part of a company can create operational and financial consequences elsewhere in the business.
 
 ---
-
-# Repository Contents
-
-```text
-Integrated-Business-Planning-Excel/
-│
-├── README.md
-│
-└── Business Planning Full Flow.xlsx
-```
-
-The `.xlsx` workbook contains the complete model.
-
 For faster inspection without downloading the file, use the **[Google Sheets browser version](PASTE_MAIN_GOOGLE_SHEETS_URL_HERE)**.
